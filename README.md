@@ -36,3 +36,5 @@ Crackerjack is very much a simplified version of the [Pico](http://picocms.org/)
 Crackerjack is ridiculously simple - literally about 100 lines of php. Quite a bit simpler than Wordpress, Drupal, etc.  Those are fine for enterprise projects, but a flat-file CMS is a relief and a joy to run a personal blog from after wrestling with those all day on the day job.
 
 Enjoy Crackerjack and totally let me know if you have any questions or anything.
+
+Logo made with <a href="https://www.designevo.com/en/" title="Free Online Logo Maker">DesignEvo</a>
