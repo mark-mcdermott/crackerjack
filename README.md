@@ -31,7 +31,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit
 *Lorem ipsum dolor sit amet, consectetur adipisicing elit*
 ```
 
-Crackerjack is very much a simplified version of the [Pico](http://picocms.org/) CMS.  I loved the idea of Pico very much, but disliked it's implementation quite a bit.  Crackerjack's markdown to html parsing is done with the [Parsedown](https://parsedown.org/) library.
+Crackerjack is very much a simplified version of the [Pico](http://picocms.org/) CMS.  I loved the idea of Pico very much, but disliked it's implementation quite a bit.  
+
+Crackerjack's markdown to html parsing is done with the [Parsedown](https://parsedown.org/) library.
 
 Crackerjack is ridiculously simple - literally about 100 lines of php. Quite a bit simpler than Wordpress, Drupal, etc.  Those are fine for enterprise projects, but a flat-file CMS is a relief and a joy to run a personal blog from after wrestling with those all day on the day job.
 
