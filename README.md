@@ -1,4 +1,4 @@
-!(logo)[https://i.imgur.com/VtKOrqS.png]
+![Crackerjack Logo](https://i.imgur.com/VtKOrqS.png)
 
 # Crackerjack
 
