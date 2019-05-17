@@ -1,3 +1,5 @@
+!(logo)[https://i.imgur.com/VtKOrqS.png]
+
 # Crackerjack
 
 ## A Tiny & Fast Php Static Blog Generator and flat-file CMS From Markdown
