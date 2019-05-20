@@ -9,7 +9,6 @@
 <body class="home">
 
 [Header here]
-<h1>Post 2</h1>
-<p>Post 2 content here</p>[Footer here]
+<h2>Blog</h2><div class="archiveLink"><a href="blog/post-2-title.php">Post 2 Title</a></div><div class="archiveLink"><a href="blog/post-1-title.php">Post 1 Title</a></div>[Footer here]
 
 </body></html>
