@@ -35,7 +35,7 @@ Crackerjack is very much a simplified version of the [Pico](http://picocms.org/)
 
 Crackerjack's markdown to html parsing is done with the [Parsedown](https://parsedown.org/) library.
 
-Crackerjack is ridiculously simple - literally about 325 lines of php. Quite a bit simpler than Wordpress, Drupal, etc.  Those are fine for enterprise projects, but a flat-file CMS is a relief and a joy to run a personal blog from after wrestling with those all day on the day job.
+Crackerjack is ridiculously simple - about 325 lines of php. Quite a bit simpler than Wordpress, Drupal, etc.  Those are fine for enterprise projects, but a flat-file CMS is a relief and a joy to run a personal blog from after messing with those all day on a day job.
 
 Enjoy Crackerjack and totally let me know if you have any questions or anything.
 
