@@ -20,7 +20,10 @@ $firstPost = $Crackerjack->getFirstPostFromSortedArr($postsArr);
 // write the index file
 $Crackerjack->writeIndexFile($firstPost->PostMarkdown);
 
-// make archive page
+// write the blog files
+$Crackerjack->writeBlogFiles($postsArr);
+
+// write the blog archive page
 $Crackerjack->writeArchiveFile($postsArr);
 
 // make about page
