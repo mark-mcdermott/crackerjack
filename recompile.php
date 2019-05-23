@@ -18,7 +18,7 @@ $postsArr = $Crackerjack->getPostsArrFromFolder('posts');
 $firstPost = $Crackerjack->getFirstPostFromSortedArr($postsArr);
 
 // write the index file
-$Crackerjack->writeIndexFile($firstPost->PostMarkdown);
+$Crackerjack->writeIndexFile($firstPost);
 
 // write the blog files
 $Crackerjack->writeBlogFiles($postsArr);

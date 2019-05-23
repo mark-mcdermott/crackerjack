@@ -9,6 +9,7 @@
 <body class="home">
 
 [Header here]
+<h2>Post 2 Title</h2>
 <h1>Post 2</h1>
 <p>Post 2 content here</p>[Footer here]
 
